@@ -1,5 +1,8 @@
-h1 {
+html {
   font-family: Helvetica;
+}
+
+h1 {
   font-size: 100px;
   font-weight: bold;
   color: khaki;
@@ -8,22 +11,12 @@ h1 {
 }
 
 h2 {
-  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   color: white;
 }
 
-h3 {
-  font-family: Helvetica;
-}
-
-p {
-  font-family: Helvetica;
-}
-
 .price {
-  font-family: Helvetica;
   font-weight: bold;
   color: blue;
 }
